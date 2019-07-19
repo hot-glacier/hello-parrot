@@ -1,5 +1,7 @@
 import random
 
+#this is an example
+
 print('The parrot looks at you expectantly.\n')
 a = input('You say, for some reason, to the parrot: \n')
 x = random.randint(0,2)
